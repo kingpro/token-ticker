@@ -16,7 +16,7 @@ Track token prices in your favorite exchanges from the terminal. Best CLI tool f
 
  * Auto refresh on a specified interval, watch prices in live update mode
  * Proxy aware HTTP request, for easy access to blocked exchanges
- * Real-time prices from 9+ exchanges
+ * Real-time prices from 10+ exchanges
 
 ### Supported Exchanges
 
@@ -29,6 +29,7 @@ Track token prices in your favorite exchanges from the terminal. Best CLI tool f
  * [Gate.io](https://gate.io/)
  * [Bittrex](https://bittrex.com/)
  * [HitBTC](https://hitbtc.com/)
+ * [BigONE](https://big.one/)
  * _still adding..._
  
 ### Installation
